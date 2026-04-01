@@ -42,11 +42,11 @@ En el archivo `bot.py`, localiza el diccionario `CONTACTOS_CONFIG`. Debes añadi
 
 ```python
 CONTACTOS_CONFIG = {
-    "8061888557221": "Abuelo",
-    "5492613619545": "Tío"
+    "8061888557657": "Abuelo",
+    "54900000000": "Tío"
 }
 ```
-*Nota: Si no conoces el ID interno, ejecuta el bot y revisa los logs de la consola de Python cuando recibas un mensaje; el ID bloqueado aparecerá allí.*
+*Nota: Si no conoces el ID interno, ejecuta el bot y revisa los logs de la consola de Python cuando recibas un mensaje; el ID bloqueado aparecerá allí. Son numeros como estos (8061888557657)*
 
 ### Paso 2: Ejecución
 Debes tener dos terminales abiertas:
