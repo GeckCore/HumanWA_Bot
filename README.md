@@ -73,5 +73,5 @@ Este bot nace de la necesidad de mitigar la soledad en personas mayores o famili
 
 ## ⚠️ Advertencia Técnica
 Este bot utiliza **Baileys**, una librería no oficial de WhatsApp. Existe un riesgo mínimo de baneo si se usa para spam masivo. Úsalo con moderación y solo con los contactos configurados.
-```
+
 
