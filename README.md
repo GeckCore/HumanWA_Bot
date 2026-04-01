@@ -75,7 +75,3 @@ Este bot nace de la necesidad de mitigar la soledad en personas mayores o famili
 Este bot utiliza **Baileys**, una librería no oficial de WhatsApp. Existe un riesgo mínimo de baneo si se usa para spam masivo. Úsalo con moderación y solo con los contactos configurados.
 ```
 
-### Notas adicionales para ti:
-1.  **Privacidad total:** Como estás usando **Ollama (qwen2.5:14b)**, todas las conversaciones se procesan en tu propia tarjeta gráfica/procesador. Nada se envía a la nube.
-2.  **Mantenimiento:** Te recomiendo borrar el archivo `historial_contactos.json` cada pocas semanas si notas que la IA empieza a confundir temas muy antiguos, aunque el código ya limita el contexto a los últimos 25 mensajes para evitarlo.
-3.  **Memoria:** Al dedicarle 20GB y usar el modelo de 14B, la calidad de las respuestas será muy superior a lo que viste con Llama 3 de 8B.
