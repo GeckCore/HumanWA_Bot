@@ -1,6 +1,3 @@
-
-
-```markdown
 # HumanBot: Comunicación Automatizada con IA Local
 
 Este proyecto permite automatizar respuestas de WhatsApp utilizando modelos de lenguaje (LLM) locales a través de **Ollama**. Está diseñado para mantener conversaciones naturales y humanas, gestionando diferentes perfiles de contacto (abuelos, padres, tíos, etc.) de forma independiente.
